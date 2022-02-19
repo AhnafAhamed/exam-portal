@@ -1,0 +1,56 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-19 00:39:19 --> Severity: Warning --> array_sum() expects parameter 1 to be array, null given /home/sciencec/public_html/exams.scienceclass.lk/application/views/dashboard.php 225
+ERROR - 2021-11-19 00:39:47 --> Could not find the language line "hello"
+ERROR - 2021-11-19 00:39:47 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 00:41:59 --> Could not find the language line "hello"
+ERROR - 2021-11-19 00:41:59 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 00:42:46 --> Could not find the language line "hello"
+ERROR - 2021-11-19 00:42:46 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 05:09:34 --> Could not find the language line "hello"
+ERROR - 2021-11-19 05:09:34 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 05:41:34 --> Could not find the language line "hello"
+ERROR - 2021-11-19 05:41:34 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 06:13:47 --> Could not find the language line "hello"
+ERROR - 2021-11-19 06:13:47 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 06:27:43 --> Could not find the language line "hello"
+ERROR - 2021-11-19 06:27:43 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 07:51:37 --> Could not find the language line "hello"
+ERROR - 2021-11-19 07:51:37 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 08:10:12 --> Could not find the language line "hello"
+ERROR - 2021-11-19 08:10:12 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 08:17:10 --> Could not find the language line "hello"
+ERROR - 2021-11-19 08:17:10 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 08:17:19 --> Could not find the language line "hello"
+ERROR - 2021-11-19 08:17:19 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 08:17:33 --> Could not find the language line "hello"
+ERROR - 2021-11-19 08:17:33 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 08:19:42 --> Could not find the language line "hello"
+ERROR - 2021-11-19 08:19:42 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 08:53:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/sciencec/public_html/exams.scienceclass.lk/application/models/Quiz_model.php 878
+ERROR - 2021-11-19 08:53:42 --> Could not find the language line "hello"
+ERROR - 2021-11-19 08:53:42 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 12:01:40 --> Could not find the language line "hello"
+ERROR - 2021-11-19 12:01:40 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 12:14:53 --> Severity: Warning --> Missing argument 1 for Result::view_result() /home/sciencec/public_html/exams.scienceclass.lk/application/controllers/Result.php 128
+ERROR - 2021-11-19 13:49:00 --> Severity: Warning --> array_sum() expects parameter 1 to be array, null given /home/sciencec/public_html/exams.scienceclass.lk/application/views/dashboard.php 225
+ERROR - 2021-11-19 13:50:44 --> Severity: Warning --> implode(): Invalid arguments passed /home/sciencec/public_html/exams.scienceclass.lk/application/models/Quiz_model.php 193
+ERROR - 2021-11-19 14:05:27 --> Could not find the language line "hello"
+ERROR - 2021-11-19 14:05:27 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 14:12:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/sciencec/public_html/exams.scienceclass.lk/application/models/User_model.php 421
+ERROR - 2021-11-19 16:10:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/sciencec/public_html/exams.scienceclass.lk/application/models/Quiz_model.php 878
+ERROR - 2021-11-19 16:57:10 --> Could not find the language line "hello"
+ERROR - 2021-11-19 16:57:10 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 17:06:25 --> Could not find the language line "hello"
+ERROR - 2021-11-19 17:06:25 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 17:08:17 --> Could not find the language line "hello"
+ERROR - 2021-11-19 17:08:17 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 18:08:46 --> Severity: Warning --> array_sum() expects parameter 1 to be array, null given /home/sciencec/public_html/exams.scienceclass.lk/application/views/dashboard.php 225
+ERROR - 2021-11-19 18:09:13 --> Could not find the language line "hello"
+ERROR - 2021-11-19 18:09:13 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 23:21:45 --> Could not find the language line "hello"
+ERROR - 2021-11-19 23:21:45 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 23:22:01 --> Could not find the language line "hello"
+ERROR - 2021-11-19 23:22:01 --> Could not find the language line "user_id"
+ERROR - 2021-11-19 23:22:08 --> Could not find the language line "hello"
+ERROR - 2021-11-19 23:22:08 --> Could not find the language line "user_id"

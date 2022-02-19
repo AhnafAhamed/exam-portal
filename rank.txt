@@ -1,0 +1,9 @@
+Ranking for a specific quiz base on the score and time
+
+Name  Rank  Score  Time
+
+Ahnaf  01      38/40   46:44
+Sarah  02      38/40   46:50
+Rivard 03      33/40   44:00
+
+
